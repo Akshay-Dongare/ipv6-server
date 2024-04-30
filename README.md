@@ -5,4 +5,4 @@ Self Host your website using HTML and ipv6. Use your laptop as host to display y
 2. To test the server and website, from another device on another network, try to access the website you hosted using the ipv6 address (since we have not registered a Domain Name on any Domain Name Server (DNS), we won't be able to access our website with a name.
 3. To find the address of your website run ```ipconfig``` on `Windows` and ```ifconfig``` on `Linux` and `Mac`.
 4. Enter the address in browser using this format ```http://[YOUR_IPV6_ADDRESS]/```
-5. Example: http://[2405:201:1012:1c24:f521:9ce6:d8aa:b10c]/
+5. Example: `http://[2405:201:1012:1c24:f521:9ce6:d8aa:b10c]/`
